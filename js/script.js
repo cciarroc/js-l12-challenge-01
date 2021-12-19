@@ -10,6 +10,3 @@ const getImage = async function(){
 }
 
 getImage();
-
-const ssh = "Testing SSH key";
-
